@@ -14,4 +14,4 @@ sudo apt-get install mesa-common-dev // install OpenGL libraries
 
 sudo apt-get install libglu1-mesa-dev -y // sometime you need it
 
-matsars@gmail.com
+matsars@gmail.com (c)
