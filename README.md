@@ -13,3 +13,5 @@ sudo apt-get install libfontconfig1  // install fonts
 sudo apt-get install mesa-common-dev // install OpenGL libraries
 
 sudo apt-get install libglu1-mesa-dev -y // sometime you need it
+
+matsars@gmail.com
